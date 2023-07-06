@@ -2737,7 +2737,7 @@ ul li {
     -ms-transform: scaleY(0);
     transform: scaleY(0);
     transform-origin: top;
-    background: rgba(0, 16, 46, 0.95);
+    background: #1c1c1c;
   }
   .menu li {
     width: 100%;
