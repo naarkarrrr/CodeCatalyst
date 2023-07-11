@@ -599,7 +599,7 @@ ul li {
   .shape-a:after {
     position: absolute;
     content: "";
-    background: url(../images/shape/02.png);
+    background: url(../images/shape/avengers.png);
     width: 100px;
     height: 100px;
     background-size: cover;
