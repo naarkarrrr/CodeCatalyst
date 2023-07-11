@@ -2950,9 +2950,7 @@ ul li {
   border-radius: 0 0 4px 4px;
 }
 .banner-section .banner-wrapper .banner-content h1 {
-  text-shadow: 2px 2px 0 #610300
-
-;
+  text-shadow: 2px 2px 0 #610300;
   font-style: italic;
   line-height: 1.286;
   margin-bottom: 18px;
@@ -2961,7 +2959,6 @@ ul li {
 #banner-sect-h1
 {
   margin: 0;
-  font-size: ;
 }
 
 @media (min-width: 576px) {
