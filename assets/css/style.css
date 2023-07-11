@@ -5407,6 +5407,39 @@ footer .footer-bottom .footer-bottom-content p a {
   font-weight: 700;
 }
 
+
+.footer-socials
+{
+  width: 100%;
+  margin: auto;
+  text-align: center;  
+  height: 50px;
+  
+}
+
+.footer-socials ul li {
+	display: inline;
+	margin: 0 5px;
+  height: 100px;
+  
+}
+
+.icofont-facebook,.icofont-instagram,.icofont-youtube-play,.icofont-email
+{
+  /* margin-top: .525em; */
+  width: 40px;
+	height: 40px;
+	opacity: .6;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+  border-radius: 25px;
+  font-size: 1.5rem;
+  margin-left: 15px;
+  
+}
+
+.social-ico:hover
+{
+  color: #5ce1b9 ;
+}
 /*Footer section End here*/
 
-/*# sourceMappingURL=style.css.map */
