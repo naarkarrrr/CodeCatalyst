@@ -3003,6 +3003,12 @@ ul li {
   }
 }
 
+.company-logo
+{
+  margin-top: 40px;
+}
+
+
 /*======== Banner css end here  =========*/
 /*About section css start here*/
 .about-section .section-header h2::before {
