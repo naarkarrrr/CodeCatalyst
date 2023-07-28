@@ -643,8 +643,8 @@ ul li {
 }
 @media (min-width: 992px) {
   .page-header {
-    padding-top: 245px;
-    padding-bottom: 150px;
+    padding-top: 120px;
+    padding-bottom: 42px;
   }
 }
 .page-header .page-header-content-area {
